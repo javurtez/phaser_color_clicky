@@ -1,0 +1,12 @@
+﻿/* If styling is required, add it here. */
+body {
+	background-color: #111;
+	color: #eee;
+	font-family: "PIXEL_SQUARE";
+	margin: 0;
+	padding: 0;
+}
+@font-face {
+	font-family: "PIXEL_SQUARE";
+	src: url('assets/font/kenny_pixel_square.ttf');
+}
