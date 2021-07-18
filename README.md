@@ -2,6 +2,12 @@
 
 The following is a game project that uses Phaser 3 and Visual Studio Code, using TypeScript and NodeJS.
 
+## Sources
+https://github.com/JamesSkemp/phaser-3-vsc-typescript-nodejs
+
+## Game
+https://javurtez.itch.io/clicky-color
+
 ## How to Build the Site
 To build this project you'll need [Node.js](https://nodejs.org) installed.
 
